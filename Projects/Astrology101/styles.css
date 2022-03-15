@@ -1,4 +1,5 @@
 body {
+    font-family: system-ui;
     background-image: url("Images/nightmountain.jpeg");
     background-repeat: no-repeat;
     background-attachment: fixed;
